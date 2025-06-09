@@ -41,7 +41,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my coding project
 - **Languages:** Java, HTML, CSS ,familier with C and python
 - **Concepts:** Data Structures, Algorithms, Recursion, Problem Solving
 - **Web:** Basic Front-end (HTML)
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub ,figma .
+- **version control:** vs code , intel iJ jetBrains.
+- 
 
 ---
 
