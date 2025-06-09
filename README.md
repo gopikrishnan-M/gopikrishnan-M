@@ -38,7 +38,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my coding project
 
 ## 🛠️ Skills
 
-- **Languages:** Java, HTML, [add your other languages]
+- **Languages:** Java, HTML, CSS ,familier with C and python
 - **Concepts:** Data Structures, Algorithms, Recursion, Problem Solving
 - **Web:** Basic Front-end (HTML)
 - **Tools:** Git, GitHub
